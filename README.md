@@ -1,7 +1,7 @@
-# vita.hacks.guide
-The complete guide to modding your PlayStation Vita. 
+# ps4.guide
+The complete guide to modding your PlayStation 4. 
 
-https://vita.hacks.guide
+https://ps4.guide
 
 ## Running the site locally
 
