@@ -3,8 +3,8 @@ module.exports = {
   
   locales: {
     lang: 'en-US',
-    title: 'Vita Guide',
-    description: 'A complete guide to PS Vita (TV) custom firmware, from stock to Ensō.'
+    title: 'PS4 Guide',
+    description: 'A complete guide to PS4 custom firmware, from stock.'
   },
   
   themeConfig: {
@@ -63,9 +63,7 @@ module.exports = {
           children: [
             'index.html',
             'get-started',
-            'updating-firmware-(3.74)',
-            'using-henlo',
-            'installing-enso',
+            'updating-firmware-(5.05)',
             'finalizing-setup'
           ],
         },
