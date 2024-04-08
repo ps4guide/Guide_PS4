@@ -56,6 +56,10 @@ Running homebrew on your device is 100% free on your device.
 + If everything goes according to plan, you will lose no data and end up with everything that you started with (games, PSN Account, saves, etc. will be preserved).
 + **Keep your device plugged in throughout the entire process to avoid data loss or damage from an unexpected power-off!**
 
+::: danger
+This guide is unfinished!
+:::
+
 ::: tip
 
 Continue to [Get Started](get-started)
