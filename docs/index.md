@@ -39,11 +39,7 @@ Alternatively, click [here](https://crowdin.com/project/vita-guide) to help to k
 
 Running homebrew on your device is 100% free on your device.
 
-## What is Custom Firmware?
-
-**Custom Firmware** ("CFW") enables you to use more advanced hacks that userland homebrew can't easily do, in addition to anything homebrew can do. Essentially all homebrew solutions on the PS Vita (TV) include a CFW of some kind.
-
-## What can I do with Custom Firmware?
+## What can I do with a hacked PS4?
 
 + Customize your home screen with user-created themes.
 + Use "ROM hacks" for games that you own
