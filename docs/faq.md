@@ -4,13 +4,13 @@ sidebar: false
 ---
 
 ### I am on the latest system version, is my device hackable?
-Yes, firmware version 3.74 is hackable at the moment.
+No.
 
-### Can I downgrade my Vita?
-Yes, the tool Modoru can downgrade any system hacked with HENkaku or h-encore to any firmware equal or greater than the firmware the console came with out of the box.
+### Can I downgrade my PS4?
+No.
 
-### Is it safe to update a Vita with CFW?
-There is no need to update a PSVita with CFW. Stay on firmware version 3.60 or 3.65.
+### Is it safe to update?
+You will lose the ability to hack the PS4 and no longer be able to use PKGs not installed from the Playstation Store.
 
 ### How risky is hacking my console?
 Bricks are *basically* impossible unless you ignore instructions and Sony doesn't ban consoles nor accounts unless you hack trophies or in-game.
@@ -18,8 +18,5 @@ Bricks are *basically* impossible unless you ignore instructions and Sony doesn'
 ### Can I run awesome homebrew and emulators with this?
 Yes! This enables any custom user-made homebrew to be played on your device.
 
-### Where should I go for support?
-For support, ask for help at [Official Henkaku Discord](https://discord.gg/m7MwpKA).
-
 ### Can I do this without a computer?
-Yes, all firmwares can be hacked without use of a computer.
+It depends on your firmware version.
